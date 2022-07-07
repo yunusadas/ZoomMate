@@ -12,7 +12,7 @@ email= browser.find_element_by_id('username')
 email.send_keys('yunusemre.adas')
 
 password= browser.find_element_by_id('password') 
-password.send_keys('Yu11288329554**')
+password.send_keys('Yu11288329***')
 
 password.submit()
 
